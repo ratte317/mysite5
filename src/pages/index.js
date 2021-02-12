@@ -39,7 +39,7 @@ export default ({data}) => (
             style={{height:"100%"}}
             />
           </figure>
-          <h3>フルーツ</h3>
+          <h3>フルーツ2</h3>
           <p>FRUIT</p>
           <p>甘くてすっぱくておいしい果実たち。<br />旬のフルーツを満喫します。</p>
         </div>
